@@ -1,0 +1,1 @@
+Alembic migration scripts are stored in versions/. Generate with `alembic revision --autogenerate -m "message"` and apply with `alembic upgrade head`.
